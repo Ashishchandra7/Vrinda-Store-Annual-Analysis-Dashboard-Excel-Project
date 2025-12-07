@@ -68,8 +68,4 @@ To provide a clean and interactive Excel dashboard that helps stakeholders under
 - Converting raw data into meaningful insights  
 - Designing professional dashboards for business reports  
 
----
-
-## 📌 Summary
-This Excel project demonstrates strong skills in **data cleaning, chart visualization, pivot tables, and business analysis**, suitable for any data analyst portfolio.
 
